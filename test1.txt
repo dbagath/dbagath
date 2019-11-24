@@ -29,3 +29,5 @@ version300
 version301
 
 version500
+
+version600
