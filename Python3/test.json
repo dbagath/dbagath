@@ -1,0 +1,10 @@
+{"record":
+  [
+  {"id":1,
+  "name":"test1",
+  "department":{"subdep1":"IT","subdep2":"ECE"}},
+  {"id":2,
+  "name":"test2",
+  "department":"EEE"}
+  ]
+}
